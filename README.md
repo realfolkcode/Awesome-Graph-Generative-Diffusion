@@ -6,7 +6,7 @@ A curated list of diffusion-based (score-based) graph generative models
 
 ### 2023
 
-* Efficient and Degree-Guided Graph Generation via Discrete Diffusion Modeling (**arXiv, 2023**) [[paper](https://arxiv.org/pdf/2305.04111.pdf)] [[code](https://github.com/tufts-ml/graph-generation-EDGE)]
+* Efficient and Degree-Guided Graph Generation via Discrete Diffusion Modeling (**ICML, 2023**) [[paper](https://arxiv.org/pdf/2305.04111.pdf)] [[code](https://github.com/tufts-ml/graph-generation-EDGE)]
 * GraphGUIDE: interpretable and controllable conditional graph generation with discrete Bernoulli diffusion (**arXiv, 2023**) [[paper](https://arxiv.org/pdf/2302.03790.pdf)] [[code](https://github.com/Genentech/GraphGUIDE)]
 * Graph Generation with Destination-Driven Diffusion Mixture (**arXiv, 2023**) [[paper](https://arxiv.org/pdf/2302.03596.pdf)]
 
