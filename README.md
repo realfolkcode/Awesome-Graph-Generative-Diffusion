@@ -5,6 +5,7 @@ A curated list of diffusion-based (score-based) graph generative models
 ## Papers
 
 ### 2023
+* Plug-and-Play Controllable Graph Generation with Diffusion Models (**ICML SPIGM Workshop, 2023**) [[paper](https://openreview.net/attachment?id=f9sWbAJtCK&name=pdf)]
 * Autoregressive Diffusion Model for Graph Generation (**arXiv, 2023**) [[paper](https://arxiv.org/pdf/2307.08849.pdf)]
 * SwinGNN: Rethinking Permutation Invariance in Diffusion Models for Graph Generation [[paper](https://arxiv.org/pdf/2307.01646.pdf)] [[code](https://github.com/DSL-Lab/SwinGNN)]
 * Efficient and Degree-Guided Graph Generation via Discrete Diffusion Modeling (**ICML, 2023**) [[paper](https://arxiv.org/pdf/2305.04111.pdf)] [[code](https://github.com/tufts-ml/graph-generation-EDGE)]
