@@ -5,9 +5,11 @@ A curated list of diffusion-based (score-based) graph generative models
 ## Papers
 
 ### 2023
+* Sparse Training of Discrete Diffusion Models for Graph Generation (**arXiv, 2023**) [[paper](https://arxiv.org/pdf/2311.02142.pdf)] [[code](https://github.com/qym7/SparseDiff)]
+* GraphMaker: Can Diffusion Models Generate Large Attributed Graphs? (**arXiv, 2023**) [[paper](https://arxiv.org/pdf/2310.13833.pdf)] [[code](https://github.com/Graph-COM/GraphMaker)]
 * Plug-and-Play Controllable Graph Generation with Diffusion Models (**ICML SPIGM Workshop, 2023**) [[paper](https://openreview.net/attachment?id=f9sWbAJtCK&name=pdf)]
 * Autoregressive Diffusion Model for Graph Generation (**arXiv, 2023**) [[paper](https://arxiv.org/pdf/2307.08849.pdf)]
-* SwinGNN: Rethinking Permutation Invariance in Diffusion Models for Graph Generation [[paper](https://arxiv.org/pdf/2307.01646.pdf)] [[code](https://github.com/DSL-Lab/SwinGNN)]
+* SwinGNN: Rethinking Permutation Invariance in Diffusion Models for Graph Generation (**arXiv, 2023**) [[paper](https://arxiv.org/pdf/2307.01646.pdf)] [[code](https://github.com/DSL-Lab/SwinGNN)]
 * Efficient and Degree-Guided Graph Generation via Discrete Diffusion Modeling (**ICML, 2023**) [[paper](https://arxiv.org/pdf/2305.04111.pdf)] [[code](https://github.com/tufts-ml/graph-generation-EDGE)]
 * GraphGUIDE: interpretable and controllable conditional graph generation with discrete Bernoulli diffusion (**arXiv, 2023**) [[paper](https://arxiv.org/pdf/2302.03790.pdf)] [[code](https://github.com/Genentech/GraphGUIDE)]
 * Graph Generation with Destination-Driven Diffusion Mixture (**arXiv, 2023**) [[paper](https://arxiv.org/pdf/2302.03596.pdf)]
